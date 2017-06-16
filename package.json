@@ -1,7 +1,7 @@
 {
-  "name": "hubot-slack-ikku",
+  "name": "hubot-slack-isshu",
   "version": "0.0.1",
-  "description": "add reaction to ikku",
+  "description": "add reaction to isshu",
   "main": "index.coffee",
   "author": "knjcode <knjcode@gmail.com>",
   "license": "MIT",

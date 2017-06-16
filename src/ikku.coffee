@@ -52,7 +52,7 @@ module.exports = (robot) ->
     tokenize(unorm_text)
     .then (result) ->
       tokens = result
-      targetRegions = [5, 7, 5]
+      targetRegions = [5, 7, 5, 7, 7]
       regions = [0]
 
       `outer://`
